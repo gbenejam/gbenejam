@@ -1,5 +1,7 @@
 ## Welcome to my Github space 👋
 
+![](https://komarev.com/ghpvc/?username=gbenejam&color=blueviolet)
+
 ### About me 👩‍💻
 
 * Currently tech leading in a 🌍 digital agency
