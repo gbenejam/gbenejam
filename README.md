@@ -5,7 +5,6 @@
 ### About me 👩‍💻
 
 * Currently tech leading in a 🌍 digital agency
-* Working on my degree's final thesis 👩‍🎓
 * Enjoying nature 🏔️ and sports 🤸‍♀️
 * 🌱 Plant based
 
